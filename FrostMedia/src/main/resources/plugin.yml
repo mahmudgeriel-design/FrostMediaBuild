@@ -1,0 +1,11 @@
+name: FrostMedia
+version: 1.0
+main: my.frost.media.Main
+api-version: 1.16
+description: Авторская вирусная система нагона онлайна для проекта FrostWorld.
+commands:
+  media:
+    description: Отправить видео из TikTok/YouTube на проверку ради кейса
+  mediaadmin:
+    description: Управление пиар-заявками для администрации FrostWorld
+    permission: frost.media.admin
